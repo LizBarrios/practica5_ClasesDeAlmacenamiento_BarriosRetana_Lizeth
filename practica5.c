@@ -1,5 +1,5 @@
 /*
-   Nombre del archivo: mi_programa.c
+   Nombre del archivo: practica5.c
    Autor: Lizeth Barrios Retana
    Fecha de creación: 20 de septiembre de 2023
    Descripción: Este programa tiene 2 opciones, uno que es un juego de una loteria de numeros, el numero es aleatorio y si sale el mismo numero que en que esta estipulado ganas, de lo contrario pierdes; el segundo es un programa que simula una carrera de carros y te dice cual es el ganador.
